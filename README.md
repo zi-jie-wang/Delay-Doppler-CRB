@@ -8,8 +8,6 @@ To obtain numerical results for Fig. 2, please run "main_CRB/CRB_SNR_isotropy_ma
 
 To obtain numerical results for Fig. 3, please run "main_CRB/CRB_data_main.m";
 
-To obtain numerical results for Figs. 4-5, please run "Pareto_bound/Correlation/Compute_Ks.m" (for various r values) and "Pareto_bound/Correlation/Get_Perato_bounds.m";
-
-To obtain numerical results for Fig. 6, please run "Pareto_Front/main.m";
+To obtain numerical results for Figs. 4-5, please run "Pareto_Front/main.m";
 
 Thanks for your attention and interest!
